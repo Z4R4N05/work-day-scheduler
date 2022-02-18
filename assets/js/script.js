@@ -63,3 +63,6 @@ function clear() {
 $("#clearCalendar").click(clear);
 
 loadTask();
+
+
+
